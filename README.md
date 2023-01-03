@@ -4,8 +4,7 @@
 
 <!-- LIST-ACTIVITIES:START -->
 
-- <img src="img/percona.png" width="25" height="25"> Technology Lead at MacroCentury Solutions
-- <img src="img/outreachy2.png" width="132" height="25"> intern for Apache Airflow 2021   <img src="img/airflow.jpeg" width="25" height="22"> 
+-  Technology Lead at MacroCentury Solutions
 - 🔭 Training in **Site Reliability Engineering**  (https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
 - <img src="img/42.jpeg" width="25" height="25"> Silicon Valley student 2020
