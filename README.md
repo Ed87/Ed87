@@ -59,7 +59,7 @@
 
 <br />
 
-<img src = "https://github-readme-stats.vercel.app/api?username=edithturn&&show_icons=true&theme=radical" alt="readme stats">
+<img src = "https://github-readme-stats.vercel.app/api?username=ed87&&show_icons=true&theme=radical" alt="readme stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edithturn&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) <img height="164" width="350" alt="typing" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ed87&layout=compact&theme=merko)]
 
