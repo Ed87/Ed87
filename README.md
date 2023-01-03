@@ -18,7 +18,7 @@
 
 ### Feel free to connect with me:   <a href="https://linkedin.com/in/edtshuma" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="edith-puclla" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/golide111" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="edith_puclla" height="35" width="35" /></a> &nbsp;
 
- ### Sponsor my work:   <a href="https://linkedin.com/in/edtshuma" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="edith-puclla" height="25" width="25" /></a> &nbsp; <iframe src="https://giphy.com/embed/FoAQVAmLEsOz8DV2HS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buymeacoffee-coffee-buy-me-a-support-FoAQVAmLEsOz8DV2HS">via GIPHY</a></p> 
+ ### Sponsor my work:    <iframe src="https://giphy.com/embed/FoAQVAmLEsOz8DV2HS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
  
 <!--LIST-YOUTUBE:START -->
 
