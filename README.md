@@ -4,7 +4,7 @@
 
 <!-- LIST-ACTIVITIES:START -->
 
-- <img src="img/percona.png" width="25" height="25"> Technology Evangelist at Percona
+- <img src="img/percona.png" width="25" height="25"> Technology Lead at MacroCentury Solutions
 - <img src="img/outreachy2.png" width="132" height="25"> intern for Apache Airflow 2021   <img src="img/airflow.jpeg" width="25" height="22"> 
 - 🔭 Training in **Site Reliability Engineering**  (https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
@@ -17,7 +17,7 @@
 
 <!--LIST-ACTIVITIES:END -->
 
-### Feel free to conect with me:   <a href="https://linkedin.com/in/edithpuclla" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="edith-puclla" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/edithpuclla" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="edith_puclla" height="35" width="35" /></a> &nbsp;
+### Feel free to conect with me:   <a href="https://linkedin.com/in/edtshuma" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="edith-puclla" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/golide111" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="edith_puclla" height="35" width="35" /></a> &nbsp;
 
 <!--LIST-YOUTUBE:START -->
 
@@ -29,7 +29,6 @@
  
  
  <!--LIST-YOUTUBE:END -->
-
 
 <!--LIST-BLOGS:START -->
 
