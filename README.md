@@ -1,4 +1,19 @@
-## **Hi there, I'm Ed!**  🐬
+<div align="center">
+<img src="https://github.com/AbbeyIT/AbbeyIT/blob/main/assets/DEVOPS.png" align="center" style="width: 100%" /> 
+</div> 
+<br/>
+
+<!-- <h1 align="center">Hie there, I'm Ed <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/></h1> -->
+
+<!-- <p align="center">
+  <a href="https://github.com/Ed87"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E8046&lines=IT%20Student;Open%20Source;Cloud&center=true&width=500&height=50"></a>
+</p> -->
+
+<p align="left"> 
+<a href="https://twitter.com/intent/follow?screen_name=@golide111" target="blank"><img src="https://img.shields.io/twitter/follow/golide111?logo=twitter&style=for-the-badge&color=1DA1F2" alt="pradumna_saraf"/></a>
+</p>
+
+<!--## **Hi there, I'm Ed!**  🐬-->
 
 <br />
 
