@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/AbbeyIT/AbbeyIT/blob/main/assets/DEVOPS.png" align="center" style="width: 100%" /> 
+<!-- <img src="https://github.com/AbbeyIT/AbbeyIT/blob/main/assets/DEVOPS.png" align="center" style="width: 100%" /> -->
 </div> 
 <br/>
 
@@ -22,7 +22,6 @@
 -  Technology Lead at MacroCentury Solutions
 - 🔭 Training in **Site Reliability Engineering**  (https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
-- <img src="img/42.jpeg" width="25" height="25"> Silicon Valley student 2020
 - 🏀 I like all things soccer
 - 💬 Ask me about:
 **Linux, DevOps, Cloud, SRE, Docker, Kubernetes, C#, Python**.
@@ -31,7 +30,7 @@
 
 <!--LIST-ACTIVITIES:END -->
 
-### Feel free to connect with me:   <a href="https://linkedin.com/in/edtshuma" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="edith-puclla" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/golide111" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="edith_puclla" height="35" width="35" /></a> &nbsp;
+<!-- ### Feel free to connect with me:   <a href="https://linkedin.com/in/edtshuma" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="edith-puclla" height="25" width="25" /></a> &nbsp; <a href="https://twitter.com/golide111" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif" alt="edith_puclla" height="35" width="35" /></a> &nbsp; -->
 
  ### If you like my work and want to support the development of the projects, now you can! Just:   <a href="https://www.buymeacoffee.com/edtshuma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
  
