@@ -19,7 +19,7 @@
 
 <!-- LIST-ACTIVITIES:START -->
 
--  Technology Lead at MacroCentury Solutions
+-  DevOps Lead at MacroCentury Solutions
 - 🔭 Training in **Site Reliability Engineering**  (https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
 - 🏀 I like all things soccer
