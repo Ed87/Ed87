@@ -19,7 +19,7 @@
 
 <!-- LIST-ACTIVITIES:START -->
 
--  DevOps Lead at MacroCentury Solutions
+-  DevOps Lead at Foxconn Europe (Czech Republic)
 - 🔭 Training in **Site Reliability Engineering**  (https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
 - 🏀 I like all things soccer
@@ -53,7 +53,7 @@
 
 - [Customizing a values.yaml file](https://www.youtube.com/xxx)
 - [DevSecOps in 05 Minutes](https://www.youtube.com/xxx)
-- [A-Z od terraform plans](https://www.youtube.com/xxx)
+- [A-Z of terraform plans](https://www.youtube.com/xxx)
  
  
  <!--LIST-YOUTUBE:END -->
@@ -68,18 +68,12 @@
 
 - [My first blog on HashNode)
 
-- [My Piscine at 42 Silicon Valley California](https://medium.com/@edithpuclla/my-piscine-at-42-silicon-valley-ef662227ed6c)
-
 - [A brief and simple introduction to Solution Architecture](https://medium.com/xxx)
 
 
 <!--LIST-BLOGS:END -->
  
 <!--HACKTOBERFEST START -->
-
- ### Hacktoberfest Badges 2022
- 
-[![@edithpuclla's Holopin board](https://holopin.me/edithpuclla)](https://holopin.io/@edithpuclla)
 
 <!--HACKTOBERFEST END -->
 
