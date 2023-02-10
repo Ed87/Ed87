@@ -2,24 +2,23 @@
 <!-- <img src="https://github.com/AbbeyIT/AbbeyIT/blob/main/assets/DEVOPS.png" align="center" style="width: 100%" /> -->
 </div> 
 <br/>
-
-<!-- <h1 align="center">Hie there, I'm Ed <img src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif" width="50"/></h1> -->
-
-<!-- <p align="center">
-  <a href="https://github.com/Ed87"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E8046&lines=IT%20Student;Open%20Source;Cloud&center=true&width=500&height=50"></a>
-</p> -->
-
 <p align="left"> 
 <a href="https://twitter.com/intent/follow?screen_name=@golide111" target="blank"><img src="https://img.shields.io/twitter/follow/golide111?logo=twitter&style=for-the-badge&color=1DA1F2" alt="pradumna_saraf"/></a>
+ ![GitHub followers](https://img.shields.io/github/followers/ed87?label=Follow&style=social)
+[![Linkedin: edtshuma](https://img.shields.io/badge/-rohitghumare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edtshuma/)](https://www.linkedin.com/in/edtshuma/) 
+[![Medium Badge](https://img.shields.io/badge/-@edtshuma-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@edtshuma/)](https://medium.com/@edtshuma/) 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/tshumae/)](https://linktr.ee/tshumae/)
+![](https://visitor-badge.glitch.me/badge?page_id=ed87)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ghumare64@gmail.com)](mailto:edtshuma@gmail.com)
 </p>
 
-<!--## **Hi there, I'm Ed!**  🐬-->
+## Hi there 👋,  
+I'm Edmore Tshuma, Senior DevOps Engineer at Foxconn. I am a Cloud & DevSecOps Specialist.
 
 <br />
 
 <!-- LIST-ACTIVITIES:START -->
 
--  DevOps Lead at Foxconn Europe (Czech Republic)
 - 🔭 Training in **Site Reliability Engineering**  (https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
 - 👾 Getting more involved [Kubernetes for Developers](https://github.com/edithturn/CKAD-training)
 - 🏀 I like all things soccer
