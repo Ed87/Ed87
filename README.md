@@ -7,7 +7,7 @@
 
 
 ## Hi there 👋,  
-I'm Edmore Tshuma, Senior DevOps Engineer at Foxconn. I am a Cloud & DevSecOps Specialist.
+I'm Edmore Tshuma, a Cloud & DevSecOps Specialist.
 
 <br />
 
