@@ -4,13 +4,7 @@
 <br/>
 <p align="left"> 
 <a href="https://twitter.com/intent/follow?screen_name=@golide111" target="blank"><img src="https://img.shields.io/twitter/follow/golide111?logo=twitter&style=for-the-badge&color=1DA1F2" alt="pradumna_saraf"/></a>
- ![GitHub followers](https://img.shields.io/github/followers/ed87?label=Follow&style=social)
-[![Linkedin: edtshuma](https://img.shields.io/badge/-rohitghumare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edtshuma/)](https://www.linkedin.com/in/edtshuma/) 
-[![Medium Badge](https://img.shields.io/badge/-@edtshuma-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@edtshuma/)](https://medium.com/@edtshuma/) 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/tshumae/)](https://linktr.ee/tshumae/)
-![](https://visitor-badge.glitch.me/badge?page_id=ed87)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ghumare64@gmail.com)](mailto:edtshuma@gmail.com)
-</p>
+
 
 ## Hi there 👋,  
 I'm Edmore Tshuma, Senior DevOps Engineer at Foxconn. I am a Cloud & DevSecOps Specialist.
