@@ -3,7 +3,7 @@
 </div> 
 <br/>
 <p align="left"> 
-<a href="https://twitter.com/intent/follow?screen_name=@golide111" target="blank"><img src="https://img.shields.io/twitter/follow/golide111?logo=twitter&style=for-the-badge&color=1DA1F2" alt="pradumna_saraf"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=@techbadger_" target="blank"><img src="https://img.shields.io/twitter/follow/golide111?logo=twitter&style=for-the-badge&color=1DA1F2" alt="ed_tshuma"/></a>
 
 
 ## Hi there 👋,  
